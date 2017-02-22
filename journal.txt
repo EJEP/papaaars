@@ -5,6 +5,9 @@ Erwin Schrodinger
 Title:
 Aren't I fantastic! And Schrodinger is great too.
 
+Abstract:
+I have been robbed of fame and fortune!
+
 Contents:
 + How it all began.
 + Why I am so brilliant.
