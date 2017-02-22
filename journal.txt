@@ -4,3 +4,11 @@ Me, The Greatest
 Title:
 Aren't I fantastic!
 
+Contents:
++ How it all began.
++ Why I am so brilliant.
++ True stories of success.
+
+# Introduction - How it all began #
+
+Insert monologue here.
