@@ -35,3 +35,6 @@ Put all figures here.
 # Conclusions #
 A groundbreaking historical analysis has shown that my claims are
 vindicated. But there is more work to be done. Gibe mone plox.
+
+# Acknowledgements #
+I would like to thank my hamster.
