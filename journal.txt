@@ -28,6 +28,10 @@ Hawking)
 # Results #
 I have been the victim of a great injustice. History will not look kindly on Dirac and Pauli.
 
+# Figures #
+
+Put all figures here.
+
 # Conclusions #
 A groundbreaking historical analysis has shown that my claims are
 vindicated. But there is more work to be done. Gibe mone plox.
